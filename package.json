@@ -51,6 +51,8 @@
   "devDependencies": {
     "@commitlint/cli": "16.2.4",
     "@commitlint/config-conventional": "16.2.4",
+    "ajv": "8.11.0",
+    "ajv-formats": "2.1.1",
     "husky": "7.0.4",
     "jest": "28.0.3",
     "jest-config": "28.0.3",
