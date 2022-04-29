@@ -1,0 +1,30 @@
+{
+  "name": "@airemad/stations",
+  "version": "0.1.0",
+  "description": "List of the stations available in Madrid",
+  "main": "src/index.js",
+  "source": "src/index.js",
+  "scripts": {
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airemad/stations.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Ulises Gascón",
+    "url": "https://github.com/ulisesGascon"
+  },
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/airemad/stations/issues"
+  },
+  "homepage": "https://github.com/airemad/stations#readme",
+  "dependencies": {
+    "standard-version": "9.3.2"
+  }
+}
