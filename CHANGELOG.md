@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/airemad/stations/compare/v0.1.4...v1.0.0) (2022-04-29)
+
+
+### Features
+
+* added core logic ([bf7d82b](https://github.com/airemad/stations/commits/bf7d82b0d2d34590c46aac2c041db29686876a2b))
+* added json schema to validate stations data ([a3e31b1](https://github.com/airemad/stations/commits/a3e31b1f4d967b2428781ef14c8378c91d230e8e))
+* added libraries to support json-schemas ([0a03e11](https://github.com/airemad/stations/commits/0a03e11d3dbdb0aca161d3fdea205f84988dedb7))
+* added proper tests ([652a5c6](https://github.com/airemad/stations/commits/652a5c6307179383e38fb035eef259015594e98e))
+* added stations from Open Data ([0dea953](https://github.com/airemad/stations/commits/0dea9538fdf537790dfd0a19626ff7f2e2289eec))
+
+
+### Other
+
+* added documentation ([9c5265e](https://github.com/airemad/stations/commits/9c5265e2ffcd4f82f4c95cf33c0062f85ba4a6b4))
+
 ### [0.1.4](https://github.com/airemad/stations/compare/v0.1.3...v0.1.4) (2022-04-29)
 
 
