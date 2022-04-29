@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/airemad/stations/compare/v0.1.3...v0.1.4) (2022-04-29)
+
+
+### Features
+
+* reduce package size ([833b2f8](https://github.com/airemad/stations/commits/833b2f82a4087f1163a79571374bd7613f81e156))
+
 ### [0.1.3](https://github.com/airemad/stations/compare/v0.1.2...v0.1.3) (2022-04-29)
 
 
