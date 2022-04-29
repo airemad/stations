@@ -25,7 +25,10 @@
     "type": "git",
     "url": "git+https://github.com/airemad/stations.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Air quality",
+    "Madrid"
+  ],
   "author": {
     "name": "Ulises Gascón",
     "url": "https://github.com/ulisesGascon"
