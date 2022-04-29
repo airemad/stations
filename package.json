@@ -1,7 +1,7 @@
 {
   "name": "@airemad/stations",
   "version": "0.1.4",
-  "description": "List of the stations available in Madrid",
+  "description": "List of the measurement stations available in Madrid",
   "main": "src/index.js",
   "source": "src/index.js",
   "scripts": {
