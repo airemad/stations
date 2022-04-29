@@ -1,1 +1,5 @@
-console.log('Hello from Airemad/Stations!')
+const stations = require('./stations.json')
+
+module.exports = {
+  getAll: () => stations
+}
