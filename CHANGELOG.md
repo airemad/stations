@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/airemad/stations/compare/v1.0.0...v1.1.0) (2022-04-29)
+
+
+### Features
+
+* added feature getStationById ([fccc586](https://github.com/airemad/stations/commits/fccc5864d56d69c7b47c86a93c7bc6863803959f))
+
 ## [1.0.0](https://github.com/airemad/stations/compare/v0.1.4...v1.0.0) (2022-04-29)
 
 
