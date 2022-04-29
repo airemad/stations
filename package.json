@@ -23,6 +23,9 @@
       "post-merge": "npm i && npm i --package-lock-only"
     }
   },
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "standard": {
     "env": [
       "jest"
