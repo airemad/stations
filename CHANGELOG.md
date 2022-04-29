@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/airemad/stations/compare/v0.1.1...v0.1.2) (2022-04-29)
+
+
+### Bug Fixes
+
+* typo in pipeline ([58ba029](https://github.com/airemad/stations/commits/58ba029b6b94f60568cda57dae172bb963715cb2))
+
 ### [0.1.1](https://github.com/airemad/stations/compare/v0.1.0...v0.1.1) (2022-04-29)
 
 
