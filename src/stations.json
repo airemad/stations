@@ -1,0 +1,839 @@
+[
+    {
+        "id": "1",
+        "uuid": "32ba0462-d6cc-424f-8a06-d0ff7112fbc9",
+        "name": "Paseo de Recoletos",
+        "altitude": 648,
+        "coordinates": {
+            "ed50": [
+                40.4233333333333,
+                -3.69083333333333
+            ],
+            "wgs84": [
+                40.42262,
+                -3.6919264
+            ]
+        },
+        "additionDate": "2011-03-07",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "2",
+        "uuid": "2ff5d7f1-438c-4bb2-881b-5fdb6ecc2c10",
+        "name": "Carlos V",
+        "altitude": 629,
+        "coordinates": {
+            "ed50": [
+                40.41,
+                -3.69027777777778
+            ],
+            "wgs84": [
+                40.4091095,
+                -3.6914896
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "3",
+        "uuid": "f95c3f78-acd1-4baa-b13f-ed8be55450b6",
+        "name": "Plaza del Carmen",
+        "altitude": 657,
+        "coordinates": {
+            "ed50": [
+                40.4211111111111,
+                -3.70472222222222
+            ],
+            "wgs84": [
+                40.4192091,
+                -3.7031662
+            ]
+        },
+        "additionDate": "1999-11-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "4",
+        "uuid": "cb706d3d-03ff-47c2-94a7-2718a8a87dc1",
+        "name": "Plaza de España",
+        "altitude": 637,
+        "coordinates": {
+            "ed50": [
+                40.4277777777778,
+                -3.71111111111111
+            ],
+            "wgs84": [
+                40.4238823,
+                -3.7122567
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "5",
+        "uuid": "abb3d0e4-372f-4165-b908-5d5576d5966e",
+        "name": "Barrio del Pilar",
+        "altitude": 673,
+        "coordinates": {
+            "ed50": [
+                40.4769444444444,
+                -3.71527777777778
+            ],
+            "wgs84": [
+                40.4782322,
+                -3.7115364
+            ]
+        },
+        "additionDate": "1999-06-07",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "6",
+        "uuid": "c136e823-efd4-4dc7-9ed5-86b81abcbf22",
+        "name": "Gregorio Marañón",
+        "altitude": 669,
+        "coordinates": {
+            "ed50": [
+                40.4425,
+                -3.68944444444444
+            ],
+            "wgs84": [
+                40.4375685,
+                -3.6907851
+            ]
+        },
+        "additionDate": "1999-06-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "8",
+        "uuid": "9408253d-b966-400c-a1de-387421394e0a",
+        "name": "Escuelas Aguirre",
+        "altitude": 672,
+        "coordinates": {
+            "ed50": [
+                40.4255555555556,
+                -3.68111111111111
+            ],
+            "wgs84": [
+                40.4215533,
+                -3.6823158
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "10",
+        "uuid": "b4967673-d104-4f67-a8d0-fbec52b81686",
+        "name": "Cuatro Caminos",
+        "altitude": 699,
+        "coordinates": {
+            "ed50": [
+                40.4438888888889,
+                -3.705
+            ],
+            "wgs84": [
+                40.4455439,
+                -3.7071303
+            ]
+        },
+        "additionDate": "1999-03-25",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "11",
+        "uuid": "11626f1f-8642-41b2-a2fe-dba87229c701",
+        "name": "Ramón y Cajal",
+        "altitude": 708,
+        "coordinates": {
+            "ed50": [
+                40.4525,
+                -3.67583333333333
+            ],
+            "wgs84": [
+                40.4514734,
+                -3.6773491
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "12",
+        "uuid": "1b43e5f6-2520-4184-bada-a1a85cdd65a4",
+        "name": "Manuel Becerra",
+        "altitude": 678,
+        "coordinates": {
+            "ed50": [
+                40.4311111111111,
+                -3.66722222222222
+            ],
+            "wgs84": [
+                40.4288108,
+                -3.6685709
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "13",
+        "uuid": "7bdb45a3-73c1-4350-a62d-fe5327cc6a84",
+        "name": "Vallecas",
+        "altitude": 677,
+        "coordinates": {
+            "ed50": [
+                40.3972222222222,
+                -3.6675
+            ],
+            "wgs84": [
+                40.3881478,
+                -3.6515286
+            ]
+        },
+        "additionDate": "1999-11-11",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "14",
+        "uuid": "1a53a3b1-8aa7-4669-97c0-7ac510ffd605",
+        "name": "Fernández Ladreda",
+        "altitude": 605,
+        "coordinates": {
+            "ed50": [
+                40.3847222222222,
+                -3.71872222222222
+            ],
+            "wgs84": [
+                40.3850336,
+                -3.7187679
+            ]
+        },
+        "additionDate": "2009-12-22",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "16",
+        "uuid": "57f0853f-1496-4562-a257-0c563075b7eb",
+        "name": "Arturo Soria",
+        "altitude": 698,
+        "coordinates": {
+            "ed50": [
+                40.3469444444444,
+                -3.6375
+            ],
+            "wgs84": [
+                40.4400457,
+                -3.6392422
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "17",
+        "uuid": "bec9fdc7-b69e-4455-8cc2-0812f9399926",
+        "name": "Villaverde",
+        "altitude": 601,
+        "coordinates": {
+            "ed50": [
+                40.3469444444444,
+                -3.71305555555556
+            ],
+            "wgs84": [
+                40.347147,
+                -3.7133167
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "18",
+        "uuid": "10f0faab-70b8-483b-a747-10f4146fb0d2",
+        "name": "Farolillo",
+        "altitude": 625,
+        "coordinates": {
+            "ed50": [
+                40.3955555555556,
+                -3.73
+            ],
+            "wgs84": [
+                40.3947825,
+                -3.7318356
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "19",
+        "uuid": "e0e223c2-3ec0-47bd-90d9-83b1b218f0e5",
+        "name": "Alto Extremadura",
+        "altitude": 632,
+        "coordinates": {
+            "ed50": [
+                40.4111111111111,
+                -3.73777777777778
+            ],
+            "wgs84": [
+                40.4078624,
+                -3.7418959
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "20",
+        "uuid": "9d743aa9-ea9c-47bb-ae2e-d665f15319c0",
+        "name": "Avda Moratalaz",
+        "altitude": 671,
+        "coordinates": {
+            "ed50": [
+                40.4069444444444,
+                -3.64972222222222
+            ],
+            "wgs84": [
+                40.4079517,
+                -3.6453104
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "24",
+        "uuid": "7b5bb138-a192-4eba-bff8-e3188592fe52",
+        "name": "Casa de Campo",
+        "altitude": 645,
+        "coordinates": {
+            "ed50": [
+                40.4216666666667,
+                -3.74888888888889
+            ],
+            "wgs84": [
+                40.4193577,
+                -3.7473445
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "25",
+        "uuid": "a6fca3da-04e0-4559-b3a9-4ea3c29576b0",
+        "name": "Santa Eugenia",
+        "altitude": 653,
+        "coordinates": {
+            "ed50": [
+                40.38,
+                -3.60111111111111
+            ],
+            "wgs84": [
+                40.3790498,
+                -3.6025322
+            ]
+        },
+        "additionDate": "1998-12-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "26",
+        "uuid": "122f1eae-ec11-402a-88b8-157cc74243d0",
+        "name": "Embajada",
+        "altitude": 618,
+        "coordinates": {
+            "ed50": [
+                40.4602777777778,
+                -3.57888888888889
+            ],
+            "wgs84": [
+                40.4593153,
+                -3.5802389
+            ]
+        },
+        "additionDate": "2011-03-03",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "27",
+        "uuid": "62164e56-913f-4805-b662-9324d02ef63b",
+        "name": "Barajas Pueblo",
+        "altitude": 627,
+        "coordinates": {
+            "ed50": [
+                40.4780555555556,
+                -3.57861111111111
+            ],
+            "wgs84": [
+                40.4769179,
+                -3.5800258
+            ]
+        },
+        "additionDate": "2002-05-24",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "28",
+        "uuid": "013e6b16-e4e2-4378-80f6-058fc60a53c6",
+        "name": "Cuatro Vientos",
+        "altitude": 677.5,
+        "coordinates": {
+            "ed50": [
+                40.3761111111111,
+                -3.77638888888889
+            ],
+            "wgs84": [
+                40.3751984,
+                -3.7778375
+            ]
+        },
+        "additionDate": "2003-04-30",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "29",
+        "uuid": "ad0efdb4-d60e-4876-b822-6e777e7443f7",
+        "name": "El Pardo",
+        "altitude": 616,
+        "coordinates": {
+            "ed50": [
+                40.5191666666667,
+                -3.77333333333333
+            ],
+            "wgs84": [
+                40.5180701,
+                -3.7746101
+            ]
+        },
+        "additionDate": "2003-10-01",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "30",
+        "uuid": "630dc7b4-e8fa-428d-80b1-0b8f4342262b",
+        "name": "Campo de las Naciones",
+        "altitude": 686.5,
+        "coordinates": {
+            "ed50": [
+                40.4616666666667,
+                -3.615
+            ],
+            "wgs84": [
+                40.4607255,
+                -3.6163407
+            ]
+        },
+        "additionDate": "2003-11-10",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "31",
+        "uuid": "d0de2daa-6878-4e45-804c-dfcadf46689c",
+        "name": "Sanchinarro",
+        "altitude": 700,
+        "coordinates": {
+            "ed50": [
+                40.4941666666667,
+                -3.66050555555556
+            ],
+            "wgs84": [
+                40.4942012,
+                -3.6605173
+            ]
+        },
+        "additionDate": "2009-07-14",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "47",
+        "uuid": "3afae4a8-b57d-44e1-b920-657605652e04",
+        "name": "Mendez Álvaro",
+        "altitude": 609,
+        "coordinates": {
+            "ed50": [
+                40.3980555555556,
+                -3.686825
+            ],
+            "wgs84": [
+                40.3980991,
+                -3.6868138
+            ]
+        },
+        "additionDate": "2010-01-18",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "48",
+        "uuid": "979cda41-e783-4dfe-8468-4e7ada581bd7",
+        "name": "Castellana",
+        "altitude": 685,
+        "coordinates": {
+            "ed50": [
+                40.4397222222222,
+                -3.69035555555556
+            ],
+            "wgs84": [
+                40.4398904,
+                -3.6903729
+            ]
+        },
+        "additionDate": "2010-05-04",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "50",
+        "uuid": "6e62f458-74f0-44f0-b92d-3f538a065df5",
+        "name": "Plaza de Castilla",
+        "altitude": 728,
+        "coordinates": {
+            "ed50": [
+                40.4655555555556,
+                -3.68861111111111
+            ],
+            "wgs84": [
+                40.4655841,
+                -3.6887449
+            ]
+        },
+        "additionDate": "2011-02-28",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "54",
+        "uuid": "e9f4dd42-43ec-4abb-a9e3-6e17d76fa474",
+        "name": "Ensanche de Vallecas",
+        "altitude": 619,
+        "coordinates": {
+            "ed50": [
+                40.4625,
+                -3.61213888888889
+            ],
+            "wgs84": [
+                40.3730118,
+                -3.6121394
+            ]
+        },
+        "additionDate": "2009-12-15",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "55",
+        "uuid": "497122c4-15bb-4a58-af78-c6a9ad2d949c",
+        "name": "Urbanización Embajada",
+        "altitude": 619,
+        "coordinates": {
+            "ed50": [
+                40.4625,
+                -3.58066666666667
+            ],
+            "wgs84": [
+                40.4623628,
+                -3.5805649
+            ]
+        },
+        "additionDate": "2010-03-17",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    },
+    {
+        "id": "86",
+        "uuid": "271a6e0a-9d62-49cd-a772-57c1b492441f",
+        "name": "Tres Olivos",
+        "altitude": 715,
+        "coordinates": {
+            "ed50": [
+                40.5005555555556,
+                -3.68972222222222
+            ],
+            "wgs84": [
+                40.5005477,
+                -3.6897308
+            ]
+        },
+        "additionDate": "2010-02-08",
+        "isActive": true,
+        "isAcustic": true,
+        "acusticAvailableValues": [
+            "LAEQ",
+            "LAS01",
+            "LAS10",
+            "LAS50",
+            "LAS90",
+            "LAS99"
+        ]
+    }
+]
