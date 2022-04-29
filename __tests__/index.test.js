@@ -1,4 +1,4 @@
-const { getAll } = require('../src')
+const { getAll, getStationById } = require('../src')
 const stations = require('../src/stations.json')
 const schema = require('../src/schema.json')
 
@@ -30,5 +30,17 @@ describe('Stations dataset', () => {
 describe('Stations methods', () => {
   it('Should return all the stations', () => {
     expect(getAll()).toStrictEqual(stations)
+  })
+
+  it('Should return specific station', () => {
+    // Prepare Fixtures
+    expect(stations.length).toBeGreaterThanOrEqual(1)
+    const [station] = stations
+
+    // Actual Expects
+    expect(getStationById(station.id)).toStrictEqual(station)
+    expect(getStationById(`0000${station.id}`)).toBe(station)
+    expect(getStationById(parseInt(station.id))).toBe(station)
+    expect(getStationById('999999')).toBe(null)
   })
 })

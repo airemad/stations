@@ -31,6 +31,8 @@ npm install @airemad/stations
 ```
 
 ## Usage
+
+### Get All Stations
 ```js
 const { getAll } = require('@airemad/stations')
 
@@ -55,6 +57,24 @@ console.log(stations)
     }
 ]
 */
+```
+
+### Get specific station
+
+```js
+const { getStationById } = require('@airemad/stations')
+
+const station = getStationById('0086') // 86, '86', '000086' ...
+console.log(station)
+/*
+{
+  "id": "86",
+  ....
+}
+*/
+
+const inventedStation = getStationById('999999')
+console.log(inventedStation) // null
 ```
 
 ## Built With
