@@ -1,5 +1,5 @@
 
-name: Publish Library in NPM
+name: Publish Library
 on:
   release:
     types:
