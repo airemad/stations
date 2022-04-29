@@ -449,3 +449,9 @@ coverage/
 .github/
 /IGNORE
 .vscode/
+.commitlintrc.json
+.nvmrc
+.versionrc.json
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+jest.config.js
