@@ -1,6 +1,6 @@
 {
   "name": "@airemad/stations",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "List of the stations available in Madrid",
   "main": "src/index.js",
   "source": "src/index.js",

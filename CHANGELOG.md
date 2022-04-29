@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/airemad/stations/compare/v0.1.2...v0.1.3) (2022-04-29)
+
+
+### Bug Fixes
+
+* npm publication access rules ([5920162](https://github.com/airemad/stations/commits/5920162ed5a8a3f1d0719c281302d32df03aff38))
+
+
+### Other
+
+* renamed pipeline ([aa136d2](https://github.com/airemad/stations/commits/aa136d28e2abc4c7458b9b532fa4be284acf6c3a))
+
 ### [0.1.2](https://github.com/airemad/stations/compare/v0.1.1...v0.1.2) (2022-04-29)
 
 
