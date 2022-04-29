@@ -9,10 +9,17 @@
     "test:update": "FORCE_COLOR=3 jest --verbose --u",
     "test:coverage": "FORCE_COLOR=3 jest --verbose  --coverage",
     "test:watch": "FORCE_COLOR=3 jest --verbose  --watchAll",
+    "lint": "standard",
+    "lint:fix": "standard --fix",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
     "release:major": "standard-version --release-as major"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
   },
   "repository": {
     "type": "git",
@@ -31,6 +38,7 @@
   "devDependencies": {
     "jest": "28.0.3",
     "jest-config": "28.0.3",
+    "standard": "17.0.0",
     "standard-version": "9.3.2"
   }
 }
